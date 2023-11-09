@@ -1,39 +1,20 @@
-<!--
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
+# scroll_controller_direction
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/guides/libraries/writing-package-pages).
+[![Pub Version](https://img.shields.io/pub/v/scroll_controller_direction)](https://pub.dev/packages/scroll_controller_direction)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-library-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/developing-packages).
--->
-
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+Effortlessly control the direction of your Flutter app's `ScrollController` with the "scroll_controller_direction" package. Simplify scrolling actions by easily navigating up, down, or to a specific index in your scrollable content. Enhance user experience and streamline navigation in your Flutter projects with this lightweight and intuitive package.
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+- Scroll up, down, or to a specific index in your `ScrollController`.
+- Lightweight and easy to integrate into your Flutter project.
 
-## Getting started
+## Installation
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+In your `pubspec.yaml` file, add:
 
-## Usage
-
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
-
-```dart
-const like = 'sample';
+```yaml
+dependencies:
+  scroll_controller_direction: ^1.0.0
 ```
-
-## Additional information
-
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
