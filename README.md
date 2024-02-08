@@ -10,6 +10,12 @@ Effortlessly control the direction of your Flutter app's `ScrollController` with
 - Scroll up, down, or to a specific index in your `ScrollController`.
 - Lightweight and easy to integrate into your Flutter project.
 
+## Usage Example
+
+To get started you can look.
+
+![Example](https://github.com/kunjanrajbhandari/scroll_controller_direction/blob/main/gif/scroll_controller_direction.scrollupdown.gif?raw=true)
+
 ## Installation
 
 In your `pubspec.yaml` file, add:

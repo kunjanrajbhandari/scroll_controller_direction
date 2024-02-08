@@ -1,6 +1,6 @@
 name: scroll_controller_direction
 description: Effortlessly control the direction of your Flutter app's ScrollController with the "scroll_controller_direction" package. Simplify scrolling actions by easily navigating up, down, or to a specific index in your scrollable content. Enhance user experience and streamline navigation in your Flutter projects with this lightweight and intuitive package..
-version: 0.0.3
+version: 0.0.6
 homepage: https://github.com/kunjanrajbhandari/scroll_controller_direction
 
 environment:
@@ -10,6 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_riverpod: ^2.4.5
 
 dev_dependencies:
   flutter_test:
